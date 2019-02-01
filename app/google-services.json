@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "493719532306",
+    "firebase_url": "https://gitbase.firebaseio.com",
+    "project_id": "gitbase",
+    "storage_bucket": "gitbase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493719532306:android:850634ffd9732c55",
+        "android_client_info": {
+          "package_name": "com.udacoding.gitfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493719532306-fhpjih6e4njdk8u77bqkmn484g2lnri0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6yOgz1EA8n8oqtGM1-3HWmThqg4jQ0L8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
